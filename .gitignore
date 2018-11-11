@@ -24,6 +24,8 @@
 /nbdist/
 /.nb-gradle/
 
+/src/test/
+
 .mvn
 mvnw.cmd
 mvnw
